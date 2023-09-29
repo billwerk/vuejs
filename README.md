@@ -1,3 +1,4 @@
+HI THERE 
 # Signup Example Application (VueJS)
 
 This project is an example of a basic Signup application in JS
